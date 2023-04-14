@@ -13,7 +13,8 @@ I am currently a Ph.D. student in Economics (Statistics) from Guanghua School of
 
 Education
 ======
-- To be continued.
+- B.S. in Statistics, Renmin University, 2021
+- Ph.D in Statistics, Peking University, 2026 (expected)
 
 Research Interests
 ======
