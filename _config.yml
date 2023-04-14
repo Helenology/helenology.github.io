@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Qianhan Zeng"
-  avatar           : "profile.png"
+  avatar           : "qh_pic.JPG"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "helenology"
   google_plus      :
   keybase          :
   instagram        :
