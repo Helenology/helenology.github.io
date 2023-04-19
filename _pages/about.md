@@ -18,6 +18,6 @@ Education
 
 Research Interests
 ======
-1. Nonparametric
+1. Nonparametric Kernel Smoothing
 2. Mislabeling
 
