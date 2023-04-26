@@ -10,3 +10,5 @@ citation: 'Zeng, Q., Zhu, Y., Zhu, X., Wang, F., Zhao, W., Sun, S., Su, M., and 
 [Download paper here](https://arxiv.org/pdf/2304.06292.pdf)
 
 Recommended citation: Zeng, Q., Zhu, Y., Zhu, X., Wang, F., Zhao, W., Sun, S., Su, M., and Wang, H. (2023), "Improved Naive Bayes with Mislabeled Data",  <i>arXiv preprint arXiv:2304.06292</I>.
+
+Remark(230426): Accepted in 2022. Not yet published.
