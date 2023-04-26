@@ -1,0 +1,11 @@
+---
+title: "Talk on Improved Naive Bayes with Mislabeled Data"
+collection: talks
+type: "Talk"
+permalink: /talks/2022/11/26-talk-1
+venue: "Online"
+---
+
+[More information here](https://www.xiong99.com.cn/p/t_pc/course_pc_detail/video/v_638458c3e4b0fc5d120b8993)
+
+This is an online sharing of the article &quot;Improved Naive Bayes with Mislabeled Data&quot; published on SII.
