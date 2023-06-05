@@ -23,5 +23,5 @@ Research Interests
 
 Advertisement
 ======
-I am currently documenting interesint topics about how to do academic research in (Research_Toolbox)[https://github.com/Helenology/Research_Toolbox] with my cooperators (Shuyuan Wu)[https://github.com/shuyuanwu] and (
-TheHiddenObserver)[https://github.com/TheHiddenObserver]. Our goal is to share our skillful tricks to make research a bit more easier.
+I am currently documenting interesint topics about how to do academic research in [Research_Toolbox](https://github.com/Helenology/Research_Toolbox) with my cooperators [Shuyuan Wu](https://github.com/shuyuanwu) and [
+TheHiddenObserver](https://github.com/TheHiddenObserver). Our goal is to share our tricks to make research a bit more easier.
