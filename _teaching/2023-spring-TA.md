@@ -1,5 +1,5 @@
 ---
-title: "TA 1"
+title: "Course: Regression"
 collection: teaching
 type: "MBA course"
 permalink: /teaching/2023-spring-TA
@@ -8,4 +8,5 @@ date: 2023-04-19
 location: "Beijing, China"
 ---
 
-This is an MBA course for 《实用商务数据分析与预测》. See the detailed TA tasks in [MBA_TA_Manual](https://github.com/Helenology/MBA_TA_manual).
+This is an MBA course for 《实用商务数据分析与预测》 or *Regression*.
+I have wrote a detailed TA manual in [MBA_TA_Manual](https://github.com/Helenology/MBA_TA_manual).
