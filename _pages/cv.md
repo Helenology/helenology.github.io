@@ -21,6 +21,11 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Prizes
+======
+- 北京应用统计学会学术研讨会优秀论文奖，2023年12月2日
+
   
 Talks
 ======
