@@ -1,2 +1,3 @@
 pub_date	title	venue	excerpt	citation	url_slug	paper_url
 2022/9/2	Improved Naive Bayes with Mislabeled Data	Statistics and Its Interface	 	"Zeng, Q., Zhu, Y., Zhu, X., Wang, F., Zhao, W., Sun, S., Su, M., and Wang, H. (2023), ""Improved Naive Bayes with Mislabeled Data"",  <i>arXiv preprint arXiv:2304.06292</I>."	INB	https://arxiv.org/pdf/2304.06292.pdf
+2024/3/25	A Semiparametric Gaussian Mixture Model for Chest CT-based 3D Blood Vessel Reconstruction 	Biostatistics		"QIANHAN ZENG, JING ZHOU, YING JI, and HANSHENG WANG(2024), ""A Semiparametric Gaussian Mixture Model for Chest CT-based 3D Blood Vessel Reconstruction"""	KEM	

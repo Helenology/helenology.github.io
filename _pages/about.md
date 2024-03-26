@@ -18,8 +18,8 @@ Education
 
 Research Interests
 ======
-1. Nonparametric Kernel Smoothing
-2. Mislabeling
+1. Nonparametrics, including kernel density estimate;
+2. Labeling, including mislabeling and crowdsourcing.
 
 Advertisement
 ======
