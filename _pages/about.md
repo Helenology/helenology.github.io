@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student in Economics (Statistics) from Guanghua School of Management, Peking University.
+I am currently a Ph.D. student in Economics (Statistics) from Guanghua School of Management, Peking University, under the supervision of [Prof. Hansheng Wang](https://en.gsm.pku.edu.cn/faculty/hansheng/). If you want to reach me, please email me at `helenology[AT]163.com` (please change [AT] to @).
 
 
 Education
 ======
-- B.S. in Statistics, Renmin University, 2021
-- Ph.D in Statistics, Peking University, 2026 (expected)
+- B.S. in Statistics, Renmin University, 2017-2021
+- Ph.D in Statistics, Peking University, 2021-2026 (expected)
 
 Research Interests
 ======
