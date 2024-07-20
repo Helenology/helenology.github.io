@@ -13,13 +13,14 @@ I am currently a Ph.D. student in Economics (Statistics) from Guanghua School of
 
 Education
 ======
-- B.S. in Statistics, Renmin University, 2017-2021
-- Ph.D in Statistics, Peking University, 2021-2026 (expected)
+- B.S. in Statistics, Renmin University, 2017.09-2021.06
+- Ph.D in Statistics, Peking University, 2021.09-2026.06 (expected)
 
 Research Interests
 ======
-1. Nonparametrics, including kernel density estimate;
-2. Labeling, including mislabeling and crowdsourcing.
+1. Medical imaging anaylsis.
+2. Nonparametrics, including kernel density estimate;
+3. Labeling, including mislabeling and crowdsourcing.
 
 Advertisement
 ======
