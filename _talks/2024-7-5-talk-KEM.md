@@ -1,5 +1,5 @@
 ---
-title: "Talk on A Semiparametric Gaussian Mixture Model for Chest CT Based 3D Blood Vessel Reconstruction"
+title: "Talk on A Semiparametric Gaussian Mixture Model forChest CT Based 3D Blood Vessel Reconstruction"
 collection: talks
 type: "Talk"
 permalink: /talks/2024/7/5-talk-KEM
