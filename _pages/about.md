@@ -16,8 +16,8 @@ I am currently a Ph.D. student in [Department of Business Statistics and Econome
 
 Education
 ======
-- B.S. in Statistics, Renmin University, 2017.09-2021.06
-- Ph.D in Statistics, Peking University, 2021.09-2026.06 (expected)
+- B.S., [School of Statistics](http://stat.ruc.edu.cn/), [REMIN University of China](https://www.ruc.edu.cn/), 2017.09-2021.06
+- Ph.D. candidate, [Guanghua School of Management](https://en.gsm.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/), 2021.09-2026.06 (expected)
 
 Publication
 ======
