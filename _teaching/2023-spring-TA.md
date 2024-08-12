@@ -9,6 +9,6 @@ location: "Beijing, China"
 ---
 
 This is an MBA course for 《实用商务数据分析与预测》 or *Regression*.
-I have wrote a detailed TA manual in [MBA_TA_Manual](https://github.com/Helenology/MBA_TA_manual).
+I wrote a detailed TA manual in [MBA_TA_Manual](https://github.com/Helenology/MBA_TA_manual).
 My TA partner is [
 TheHiddenObserver](https://github.com/TheHiddenObserver).
