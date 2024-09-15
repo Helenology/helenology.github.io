@@ -1,5 +1,5 @@
 ---
-title: "Course: Regression"
+title: "Regression 2023"
 collection: teaching
 type: "TA"
 permalink: /teaching/2023-spring-TA

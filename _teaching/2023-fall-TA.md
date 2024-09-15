@@ -1,5 +1,5 @@
 ---
-title: "Course: Deep Learning"
+title: "Deep Learning 2023"
 collection: teaching
 type: "TA"
 permalink: /teaching/2023-fall-TA
