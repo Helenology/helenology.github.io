@@ -25,9 +25,11 @@ Publication
 
 Research Interests
 ======
-1. Medical imaging anaylsis.
-2. Nonparametrics, including kernel density estimate;
-3. Labeling, including mislabeling and crowdsourcing.
+1. Weakly supervised learning;
+2. Labeling, including mislabeling and crowdsourcing;
+3. Medical imaging anaylsis;
+4. Nonparametrics, including kernel density estimation.
+
 
 Advertisement
 ======
