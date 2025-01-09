@@ -19,9 +19,6 @@ Educational Background
 - B.S., [School of Statistics](http://stat.ruc.edu.cn/), [REMIN University of China](https://www.ruc.edu.cn/), 2017.09-2021.06
 - Ph.D. candidate, [Guanghua School of Management](https://en.gsm.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/), 2021.09-2026.06 (expected)
 
-Publication
-======
-- All my articles are accessible publicly, and can be found on my [google scholar](https://scholar.google.com/citations?hl=zh-CN&user=K00XIVsAAAAJ).
 
 Research Interests
 ======
