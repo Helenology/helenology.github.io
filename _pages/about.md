@@ -17,7 +17,7 @@ I am currently a Ph.D. candidate in [Department of Business Statistics and Econo
 Educational Background
 ======
 - B.S., [School of Statistics](http://stat.ruc.edu.cn/), [REMIN University of China](https://www.ruc.edu.cn/), 2017.09-2021.06
-- Ph.D. candidate, [Guanghua School of Management](https://en.gsm.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/), 2021.09-2026.06 (expected)
+- Ph.D. Candidate, [Guanghua School of Management](https://en.gsm.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/), 2021.09-present
 
 
 Research Interests
