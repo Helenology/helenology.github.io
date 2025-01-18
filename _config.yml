@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Qianhan Zeng"
 title_separator          : "-"
 name                     : &name "Qianhan Zeng"
-description              : &description "PhD at Peking University"
+description              : &description "Ph.D. Candidate at Peking University"
 url                      : https://helenology.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "helenology.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Qianhan Zeng"
   avatar           : "qh_pic.JPG"
-  bio              : "Ph.D. student"
+  bio              : "Ph.D. Candidate at Peking University"
   location         : "Beijing"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
