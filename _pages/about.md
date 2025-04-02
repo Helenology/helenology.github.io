@@ -27,6 +27,13 @@ Research Interests
 3. Medical imaging anaylsis;
 4. Nonparametrics, including kernel density estimation.
 
+Awards
+======
+- Award for Scientific Research, Peking University, 2024
+- Merit Student of Guanghua School of Management, Peking University, 2023
+- Excellent Paper Award of Beijing Applied Statistics Symposium, 2023
+- The Third prize of Big Data and Brain-like Intelligence in the Doctoral Academic Forum of Fudan University, 2023
+- National Scholarship, Ministry of Education of the People's Republic of China, 2020
 
 Advertisement
 ======
