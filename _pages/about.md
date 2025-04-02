@@ -34,11 +34,11 @@ Honors and Awards
 - **Outstanding Paper Award**, Beijing Applied Statistics Symposium, 2023
 - The Third prize of Big Data and Brain-like Intelligence in the Doctoral Academic Forum of Fudan University, 2023
 - **Outstanding TA Award**, Guanghua School of Management, Peking University, 2023
-- **Outstanding Graduate**, RENMIN University of China, 2021
+<!-- - **Outstanding Graduate**, RENMIN University of China, 2021
 - **National Scholarship**, Ministry of Education of the People's Republic of China, 2020
 - **Jingdong Scholarship** (First Prize in Academic Study), RENMIN University of China, 2019
 - **Merit Student**, RENMIN University of China, 2019
-- **Agricultural Bank of China Scholarship**, RENMIN University of China, 2018
+- **Agricultural Bank of China Scholarship**, RENMIN University of China, 2018 -->
 
 Advertisement
 ======
