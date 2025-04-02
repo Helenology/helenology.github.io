@@ -20,12 +20,12 @@ Educational Background
 - Ph.D. Candidate, [Guanghua School of Management](https://en.gsm.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/), 2021.09-2025.06 (expected)
 
 
-Research Interests
+<!-- Research Interests
 ======
 1. Weakly supervised learning;
 2. Labeling, including mislabeling and crowdsourcing;
 3. Medical imaging anaylsis;
-4. Nonparametrics, including kernel density estimation.
+4. Nonparametrics, including kernel density estimation. -->
 
 Honors and Awards
 ======
