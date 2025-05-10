@@ -39,8 +39,3 @@ Honors and Awards
 - **Merit Student**, RENMIN University of China, 2019
 - **Agricultural Bank of China Scholarship**, RENMIN University of China, 2018
 
-
-Advertisement
-======
-I am currently documenting interesting topics about how to do academic research in [Research_Toolbox](https://github.com/Helenology/Research_Toolbox) with my cooperators [Shuyuan Wu](https://github.com/shuyuanwu) and [
-TheHiddenObserver](https://github.com/TheHiddenObserver). Our goal is to share our tricks to make research a bit more easier.
