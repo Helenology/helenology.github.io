@@ -29,6 +29,7 @@ Educational Background
 
 Honors and Awards
 ======
+- **Excellent Graduate**, Guanghua School of Management, Peking University, 2025
 - **Award for Scientific Research**, Peking University, 2024
 - **Merit Student**, Guanghua School of Management, Peking University, 2023
 - **Outstanding Paper Award**, Beijing Applied Statistics Symposium, 2023
