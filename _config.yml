@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Qianhan Zeng"
   avatar           : "qh_pic.JPG"
-  bio              : "Ph.D. Candidate at Peking University"
-  location         : "Beijing"
+  bio              : "Postdoc @ University of Michigan"
+  location         : "U.S.A."
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=K00XIVsAAAAJ"
-  email            : "helenology@163.com"
+  email            : "helenology AT 163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
