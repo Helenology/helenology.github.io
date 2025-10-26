@@ -21,12 +21,12 @@ Educational Background
 - B.S., [School of Statistics](http://stat.ruc.edu.cn/), [REMIN University of China](https://www.ruc.edu.cn/), 2017.09-2021.06
 
 
-<!-- Research Interests
+Research Interests
 ======
 1. Weakly supervised learning;
 2. Labeling, including mislabeling and crowdsourcing;
-3. Medical imaging anaylsis;
-4. Nonparametrics, including kernel density estimation. -->
+3. Biostatistics, including medical imaging anaylsis.
+
 
 Honors and Awards
 ======
