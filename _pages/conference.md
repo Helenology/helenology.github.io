@@ -20,6 +20,6 @@ redirect_from:
 | 2023/12/15  |  [2023 年复旦大学博士生学术论坛之大数据与类脑智能篇](https://mp.weixin.qq.com/s/hXQ3Vs9-Hd1E7eLctQ39) | Talk| [KEM](https://github.com/Helenology/Paper_KEM) |
 | 2024/4/20  |  2024CSAYS年会全国优秀博士生论坛 | Poster| [KEM](https://github.com/Helenology/Paper_KEM) |
 | 2024/6/6| 第八届北大-清华统计论坛 | Poster| [KEM](https://github.com/Helenology/Paper_KEM) |
-| 2024/6/28-2024/6/30| [ICSA 2024](https://www.icsa.org/icsa-2024-china-conference-june-28-30-2024/) | Talk | [Crowdsourcing](https://github.com/Helenology/Paper_Crowdsourcing) |
+| 2024/6/28-2024/6/30| [ICSA 2024](https://www.icsa.org/icsa-2024-china-conference-june-28-30-2024/) | Talk | Crowdsourcing |
 | 2024/7/11-2024/7/15| JCSDS 2024 | Talk | [KEM](https://github.com/Helenology/Paper_KEM) |
-| 2025/4/18-2025/4/20| 全国工业统计学教学研究会青年统计学家协会2025年年会暨第三届统计理论及其应用国际研讨会 | Talk | [MineSafe](https://github.com/Helenology/Paper_DS) |
+| 2025/4/18-2025/4/20| 全国工业统计学教学研究会青年统计学家协会2025年年会暨第三届统计理论及其应用国际研讨会 | Talk | [GPA-DS](https://github.com/Helenology/Paper_DS) |
