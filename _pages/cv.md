@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Statistics, Renmin University, 2021
-* Ph.D in Statistics, Peking University, 2025 (expected)
+* Ph.D in Statistics, Peking University, 2025
 
   
 
