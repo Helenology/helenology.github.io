@@ -18,7 +18,7 @@ Prior to this, I earned my Ph.D. in 2025 from the [Department of Business Statis
 Educational Background
 ======
 - Ph.D., [Guanghua School of Management](https://en.gsm.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/), 2021.09-2025.06
-- B.S., [School of Statistics](http://stat.ruc.edu.cn/), [REMIN University of China](https://www.ruc.edu.cn/), 2017.09-2021.06
+- B.S., [School of Statistics](http://stat.ruc.edu.cn/), [RENMIN University of China](https://www.ruc.edu.cn/), 2017.09-2021.06
 
 
 Research Interests
