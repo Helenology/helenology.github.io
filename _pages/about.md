@@ -30,6 +30,7 @@ Research Interests
 
 Honors and Awards
 ======
+- **UMPDA Travel Award**, University of Michigan Postdoctoral Association, 2026
 - **Excellent Graduate**, Guanghua School of Management, Peking University, 2025
 - **Award for Scientific Research**, Peking University, 2024
 - **Merit Student**, Guanghua School of Management, Peking University, 2023
